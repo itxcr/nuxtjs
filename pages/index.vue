@@ -1,3 +1,6 @@
 <template>
-  <Tutorial/>
+  <div>
+    <Tutorial/>
+    itxcr
+  </div>
 </template>
